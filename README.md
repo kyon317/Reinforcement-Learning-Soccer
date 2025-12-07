@@ -1,4 +1,4 @@
-# SoccerTwo Unity Environment
+# Multi-Agent Reinforcement Learning Soccer Bot
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Unity](https://img.shields.io/badge/Unity-6000.0+-black.svg?logo=unity)
@@ -6,11 +6,10 @@
 ![ML-Agents](https://img.shields.io/badge/ML--Agents-4.0.0+-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 
-A standalone Unity project for the SoccerTwo multi-agent reinforcement learning environment, supporting multiple reinforcement learning algorithms including SAC, PPO, and POCA for training intelligent soccer-playing agents.
+A SoccerTwo multi-agent reinforcement learning environment (Unity ML-Agent), supporting multiple reinforcement learning algorithms including SAC, PPO, and POCA for training intelligent soccer-playing agents.
 
 ## Environment Preview
-
-![Full Environment](Results/Full env.png)
+![Visual Abstract](Results/soccer.png)
 
 *SoccerTwo environment with 4 agents (2 per team) competing in a soccer match*
 
