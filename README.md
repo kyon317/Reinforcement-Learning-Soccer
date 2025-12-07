@@ -1,4 +1,4 @@
-# Multi-Agent Reinforcement Learning Soccer Bot
+# Reinforcement Learning for Multi-Agent Soccer
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Unity](https://img.shields.io/badge/Unity-6000.0+-black.svg?logo=unity)
