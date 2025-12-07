@@ -292,7 +292,104 @@ If the scene won't load:
 
 If you use this project in your research, please cite the following works:
 
+### Multi-Agent Reinforcement Learning
+
+- **Emergent complexity via multi-agent competition**
+  - Link: https://arxiv.org/abs/1710.03748
+  - Citation:
+    ```
+    @article{bansal2018emergent,
+      title={Emergent complexity via multi-agent competition},
+      author={Bansal, Trapit and Pachocki, Jakub and Sidor, Szymon and Sutskever, Ilya and Mordatch, Igor},
+      journal={arXiv preprint arXiv:1710.03748},
+      year={2018}
+    }
+    ```
+
+### POCA (Multi-Agent POsthumous Credit Assignment)
+
+- **On the use and misuse of absorbing states in multi-agent reinforcement learning**
+  - Link: https://arxiv.org/abs/2111.05992
+  - Citation:
+    ```
+    @inproceedings{cohen2022absorbing,
+      title={On the use and misuse of absorbing states in multi-agent reinforcement learning},
+      author={Cohen, Andrew and Teng, Ervin and Berges, Vincent-Pierre and Dong, Ruan-Ping and Henry, Hunter and Mattar, Marwan and Zook, Alexander and Ganguly, Soumith},
+      booktitle={RL in Games Workshop at AAAI},
+      year={2022}
+    }
+    ```
+
+- **A deep policy inference q-network for multi-agent systems**
+  - Link: https://arxiv.org/abs/1712.07893
+  - Citation:
+    ```
+    @article{hong2018deep,
+      title={A deep policy inference q-network for multi-agent systems},
+      author={Hong, Zhang-Wei and Su, Shih-Yang and Shann, Tzu-Yun and Chang, Yi-Hsiang and Lee, Chun-Yi},
+      journal={arXiv preprint arXiv:1712.07893},
+      year={2018}
+    }
+    ```
+
+- **Tizero: Mastering multi-agent football with curriculum learning and self-play**
+  - Link: https://arxiv.org/abs/2302.07515
+  - Citation:
+    ```
+    @article{lin2023tizero,
+      title={Tizero: Mastering multi-agent football with curriculum learning and self-play},
+      author={Lin, Fan and Wang, Zhipeng and Li, Bei and Wang, Rongjun and Zheng, Zichuan and Wang, Yali and Yu, Junhong and Wang, Wenxue and Wang, Jing},
+      journal={arXiv preprint arXiv:2302.07515},
+      year={2023}
+    }
+    ```
+
+### Soft Actor-Critic (SAC)
+
+- **Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor**
+  - Link: https://arxiv.org/abs/1801.01290
+  - Citation:
+    ```
+    @inproceedings{haarnoja2018soft,
+      title={Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor},
+      author={Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey},
+      booktitle={International Conference on Machine Learning},
+      pages={1861--1870},
+      year={2018},
+      organization={PMLR}
+    }
+    ```
+
+### Proximal Policy Optimization (PPO)
+
+- **Proximal policy optimization algorithms**
+  - Link: https://arxiv.org/abs/1707.06347
+  - Citation:
+    ```
+    @article{schulman2017proximal,
+      title={Proximal policy optimization algorithms},
+      author={Schulman, John and Wolski, Filip and Dhariwal, Prafulla and Radford, Alec and Klimov, Oleg},
+      journal={arXiv preprint arXiv:1707.06347},
+      year={2017}
+    }
+    ```
+
+### Unity ML-Agents Platform
+
+- **Unity: A general platform for intelligent agents**
+  - Link: https://arxiv.org/abs/1809.02627
+  - Citation:
+    ```
+    @article{juliani2018unity,
+      title={Unity: A general platform for intelligent agents},
+      author={Juliani, Arthur and Berges, Vincent-Pierre and Vckay, Esh and Gao, Yuan and Henry, Hunter and Mattar, Marwan and Lange, Danny},
+      journal={arXiv preprint arXiv:1809.02627},
+      year={2018}
+    }
+    ```
+
 ### Policy Gradient Methods
+
 - **An ML Agent using the Policy Gradient Method to win a SoccerTwos Game**
   - Link: https://www.scitepress.org/Papers/2022/111084/111084.pdf
   - Citation:
@@ -306,6 +403,7 @@ If you use this project in your research, please cite the following works:
     ```
 
 ### Reward Engineering
+
 - **Comprehensive Overview of Reward Engineering and Shaping in Advancing Reinforcement Learning Applications**
   - Link: https://arxiv.org/html/2408.10215v1
   - Citation:
@@ -319,6 +417,7 @@ If you use this project in your research, please cite the following works:
     ```
 
 ### Multi-Agent Soft Actor-Critic
+
 - **Multi-Agent Soft Actor-Critic with Coordinated Loss for Autonomous Mobility-on-Demand Fleet Control**
   - Link: https://arxiv.org/pdf/2404.06975
   - Citation:
@@ -331,7 +430,8 @@ If you use this project in your research, please cite the following works:
     }
     ```
 
-### Unity ML-Agents
+### Unity ML-Agents Toolkit
+
 - **Unity ML-Agents Toolkit**
   - Repository: https://github.com/Unity-Technologies/ml-agents
   - Citation:
